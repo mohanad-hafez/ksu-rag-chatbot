@@ -25,6 +25,6 @@ This project provides an interface to access and interact with information relat
 
 ## Contributors
 
-*   **@mohanad-hafez:** Backend Development, RAG System Implementation, Data Processing.
-*   **@R-YYYY-N:** Frontend Development (GUI).
+*   **[@mohanad-hafez](https://github.com/mohanad-hafez):** Backend Development, RAG System Implementation, Data Processing.
+*   **[@R-YYYY-N](https://github.com/R-YYYY-N):** Frontend Development (GUI).
 *   **Saud:** Design.
