@@ -18,7 +18,7 @@ This project provides an interface to access and interact with information relat
     *   [Vite](https://vitejs.dev/)
     *   [Tailwind CSS](https://tailwindcss.com/)
     *   [shadcn/ui](https://ui.shadcn.com/)
-*   **Backend/RAG:** (Specific technologies depend on implementation, likely Python-based)
+*   **Backend/RAG:** Langchain, Node.js
 *   **Data:** HTML scraping/parsing
 
 
